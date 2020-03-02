@@ -52,7 +52,7 @@ Client menuju port 31002
 
 - Menjalankan server.py pada PC lain (IP: 192.168.100.6)
 
-![](Dokumentasi/server_lain-1.jpg)
+![](Dokumentasi/server_lain-1.png)
 
 - Menjalankan client.py pada PC saya (IP: 192.168.100.29)
 
@@ -60,6 +60,20 @@ Client menuju port 31002
 
 - File telah terkirim pada PC lain (IP: 192.168.100.6)
 
-![](Dokumentasi/file_lain.jpg)
+![](Dokumentasi/file_lain.png)
 
 ## MODIFIKASILAH program server.py agar dapat mengirimkan MENTRANSFER FILE yang di request oleh client (letakkan program modifikasi di direktori tugas1b) 
+
+[Modifikasi server.py](https://github.com/rmdhnilham/network-programming/blob/master/tugas1/tugas1b/server.py)
+
+- Menjalankan server.py pada PC lain (IP: 192.168.100.6)
+
+![](Dokumentasi/server_lain-2.png)
+
+- Menjalankan client.py pada PC saya (IP: 192.168.100.29)
+
+![](Dokumentasi/client_1b.png)
+
+- File yang di request oleh client.py pada PC saya (IP: 192.168.100.29) telah berhasil dikirimkan oleh server.py pada PC lain (IP: 192.168.100.6)
+
+![](Dokumentasi/file_received.png)
