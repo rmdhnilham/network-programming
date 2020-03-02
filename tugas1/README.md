@@ -17,20 +17,32 @@
 - Karena terdapat 3 port server maka hubungkan ke masing-masing port
 
 ![](Dokumentasi/client31000.png)
-
 Client menuju port 31000
 
 ![](Dokumentasi/client31001.png)
-
 Client menuju port 31001
 
 ![](Dokumentasi/client31002.png)
-
 Client menuju port 31002
 
 
 ## Jalankan program server.py di 3 port yang berbeda di 2 komputer yang berbeda dan jalankan program client.py untuk konek ke server pada poin sebelumnya, kirimkan string yang sama
 
+- Menjalankan server.py pada PC saya (IP: 192.168.100.29)
+
+![](Dokumentasi/server_ip.png)
+
+- Menjalankan client.py pada PC saya, menghubungkan pada PC lain (IP: 192.168.100.6)
+
+![](Dokumentasi/client_ip.png)
+
+- Hasil dari PC lain (IP: 192.168.100.6) menerima pesan dari client.py pada PC saya (IP: 192.168.100.29)
+
+![](Dokumentasi/server_lain.png)
+
+- Hasil dari PC saya (IP: 192.168.100.29) menerima pesan balik dari client.py pada PC lain (IP: 192.168.100.6)
+ 
+ ![](Dokumentasi/server_ip_connected.png)
 
 ## MODIFIKASILAH program client.py dan server.py agar dapat MENTRANSFER file dari client ke server (letakkan program modifikasi di direktori tugas1a)
 
