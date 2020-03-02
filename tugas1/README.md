@@ -38,7 +38,7 @@ Client menuju port 31002
 
 - Hasil dari PC lain (IP: 192.168.100.6) menerima pesan dari client.py pada PC saya (IP: 192.168.100.29)
 
-![](Dokumentasi/server_lain.png)
+![](Dokumentasi/server_lain.jpg)
 
 - Hasil dari PC saya (IP: 192.168.100.29) menerima pesan balik dari client.py pada PC lain (IP: 192.168.100.6)
  
