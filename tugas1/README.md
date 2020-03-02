@@ -42,9 +42,24 @@ Client menuju port 31002
 
 - Hasil dari PC saya (IP: 192.168.100.29) menerima pesan balik dari client.py pada PC lain (IP: 192.168.100.6)
  
- ![](Dokumentasi/server_ip_connected.png)
+![](Dokumentasi/server_ip_connected.png)
 
 ## MODIFIKASILAH program client.py dan server.py agar dapat MENTRANSFER file dari client ke server (letakkan program modifikasi di direktori tugas1a)
 
+[Modifikasi client.py](https://github.com/rmdhnilham/network-programming/blob/master/tugas1/tugas1a/client.py)
+
+[Modifikasi server.py](https://github.com/rmdhnilham/network-programming/blob/master/tugas1/tugas1a/server.py)
+
+- Menjalankan server.py pada PC lain (IP: 192.168.100.6)
+
+![](Dokumentasi/server_lain-1.jpg)
+
+- Menjalankan client.py pada PC saya (IP: 192.168.100.29)
+
+![](Dokumentasi/client_1a.png)
+
+- File telah terkirim pada PC lain (IP: 192.168.100.6)
+
+![](Dokumentasi/file_lain.jpg)
 
 ## MODIFIKASILAH program server.py agar dapat mengirimkan MENTRANSFER FILE yang di request oleh client (letakkan program modifikasi di direktori tugas1b) 
