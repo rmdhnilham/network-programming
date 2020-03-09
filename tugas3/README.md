@@ -14,7 +14,7 @@
             'https://i.pinimg.com/originals/08/30/34/083034ffa98aeef09d075457bb4d7a9e.jpg',
             'https://i.pinimg.com/originals/56/81/2b/56812b7cfb898e7230c0a126657410f3.jpg']
     ]
-    ```
+```
 
 3. Jalankan client_3.py dan akan muncul pada terminal seperti gambar berikut
 
