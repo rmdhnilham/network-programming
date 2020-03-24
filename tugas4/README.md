@@ -50,6 +50,7 @@ protokol akan mengirimkan data ke client untuk disimpan pada folder client-stora
 
 protokol akan mengirimkan list ke client
 
+
 ## Buatlah dokumentasi dari protokol tersebut berisikan:
 
 ### Ketentuan membaca format & Daftar Fitur
@@ -97,19 +98,21 @@ Jalankan client_list.py dan masukkan perintah "list"
   
   client akan mengirimkan string bebentuk json ke server, setelah mendapat balasan dari server maka client akan menampilkan list
 
+Server akan menerima string berbentuk json dan mengirimkan balasan ke client untuk menampilkan list
+
+  ![](Dokumentasi/list_client-2.PNG)
+
 
 ## Gunakan format JSON untuk tugas ini
 
--
+- Dokumentasi di atas sudah menerapkan format JSON di setiap pengiriman string
 
 
 ## Buatlah client untuk setiap operasi tersebut
 
-- client_upload.py untuk menghandle operasi meletakkan file
+- [client_upload.py](https://github.com/rmdhnilham/network-programming/blob/master/tugas4/client_upload.py) untuk menghandle operasi meletakkan file
 
+- [client_download.py](https://github.com/rmdhnilham/network-programming/blob/master/tugas4/client_download.py) untuk menghandle operasi mengambil file
 
-- client_download.py untuk menghandle operasi mengambil file
-
-
-- client_list.py untuk menghandle proses melihat list
+- [client_list.py](https://github.com/rmdhnilham/network-programming/blob/master/tugas4/client_list.py) untuk menghandle proses melihat list
 
