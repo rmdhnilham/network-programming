@@ -62,6 +62,7 @@ protokol akan mengirimkan list ke client
 - Sebelum menjalankan client jalankan server(protokol) terlebih dahulu
 
 - Meletakkan file
+
 Jalankan client_upload.py dan masukkan perintah "upload<spasi>[nama file].[ekstensi]"
   
   ![](Dokumentasi/upload_client.PNG)
@@ -77,6 +78,7 @@ File berhasil diletakkan ke protocol-storage
   ![](Dokumentasi/upload_client-4.PNG)
 
 - Mengambil file
+
 Jalankan client_download.py dan masukkan perintah "download<spasi>[nama file].[ekstensi]"
   
   ![](Dokumentasi/down_client.PNG)
@@ -92,6 +94,7 @@ File berhasil didownload ke protocol-storage
   ![](Dokumentasi/down_client-4.PNG)
 
 - Melihat list file
+
 Jalankan client_list.py dan masukkan perintah "list"
   
   ![](Dokumentasi/list_client.PNG)
