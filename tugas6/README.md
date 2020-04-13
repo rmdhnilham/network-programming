@@ -3,7 +3,6 @@
 **Kelas** : Progjar - B
 
 # Tugas 6
-## Modifikasilah file program client_3.py agar dapat mengunduh lebih dari satu gambar menggunakan thread.
 ### Hasil request dari client.py
 
 ![](Dokumentasi/hasil-clientpy.PNG)
