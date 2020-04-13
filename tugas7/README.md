@@ -2,8 +2,8 @@
 **NRP**   : 05111740000121<br>
 **Kelas** : Progjar - B
 
-# Tugas 6
-### Uji performa menggunakan Apache Benchmark
+# Tugas 7
+### Uji performa menggunakan Apache Benchmark pada server_thread_http.py dalam tugas6
 
 - Masukkan syntaxab -n <jumlah_request> -c <concurency> http://127.0.0.1:10001/
 
