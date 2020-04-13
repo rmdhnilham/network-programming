@@ -5,7 +5,7 @@
 # Tugas 7
 ### Uji performa menggunakan Apache Benchmark pada server_thread_http.py dalam tugas6
 
-- Masukkan syntaxab -n <jumlah_request> -c <concurency> http://127.0.0.1:10001/
+- Masukkan syntax ab -n <jumlah_request> -c <concurency> http://127.0.0.1:10001/ pada command line linux
 
 ![](Dokumentasi/test.PNG)
 
